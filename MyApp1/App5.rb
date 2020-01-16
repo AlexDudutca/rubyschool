@@ -7,4 +7,11 @@ b = gets.to_i
 print "Enter c: "
 c = gets.to_f
 
-print x = a.to_f + b.to_f + c
+print "Enter f: "
+f = gets.to_f
+
+print "Enter g: "
+g= gets.to_f
+
+print x = a.to_f + b.to_f + c + f + g
+

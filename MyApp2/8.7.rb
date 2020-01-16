@@ -17,10 +17,10 @@ result = 0
 if op == "+"
   result = a + b
 end
-if op == " - "
+if op == "-"
   result = a - b
 end
-if op == " * "
+if op == "*"
   result = a * b
 end
 if op == "/"

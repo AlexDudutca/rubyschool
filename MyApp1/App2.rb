@@ -2,7 +2,11 @@ print "Enter string: "
 x = gets.chomp
 
 print "Enter the namber: "
-y = gets.to_i
+y = gets
 
-print x * y
+print "Result!: "
+f = gets
+
+puts x * y
+
 
